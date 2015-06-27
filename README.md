@@ -1,1 +1,1 @@
-This is for demo projects
+This is for demo projects. Use cautiously!
