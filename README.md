@@ -1,2 +1,1 @@
-# test
-a repository for testing stuff
+This is for demo projects
